@@ -15,4 +15,6 @@ Modal de confirmacion de la reserva.
 
 Footer informativa 
 
+y
+
 Javascript(para validacion + modal)
