@@ -1,5 +1,5 @@
 # hotel (proyecto de prueba universitario)
-sitio de reserva habitacion en un hotel fiktif
+sitio de reserva habitacion en un hotel ficticia
 una pagina completa de reservas para un hotel con
 bootstrap( para diseno y componentes):
 
